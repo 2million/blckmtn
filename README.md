@@ -1,23 +1,15 @@
-# Sleek
-
-[![Gem Version](https://badge.fury.io/rb/jekyll-sleek.svg)](https://badge.fury.io/rb/jekyll-sleek) [![Build Status](https://travis-ci.org/janczizikow/sleek.svg?branch=master)](https://travis-ci.org/janczizikow/sleek) [![license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/janczizikow/sleek)
-
-A modern [Jekyll](https://jekyllrb.com/) theme focused on speed performance & SEO best practices.
-
-![Sleek Jekyll Theme](./sleek.jpg)
-
-## Features
-
-* Compatible with [Github Pages](https://pages.github.com/)
-* Minimal, responsive and speed performance optimized
-* SEO friendly, with help of [Jekyll SEO Plugin](https://github.com/jekyll/jekyll-seo-tag)
-* Easy [Google Tag Manager](https://tagmanager.google.com/) Integration
-* Support for [Disqus](https://disqus.com/) comments
-* Form submissions with [Formspree](#formspree)
-
-[Preview Demo](https://janczizikow.github.io/sleek/)
+# blckmtn
 
 ## Installation
+
+### QUICK START (MADE BY 200MAN)
+
+The following instructions are specifically for Alek's Desktop, but replace appropriate File paths for other computers
+
+1. Open cmd.exe
+2. run `cd C:\Users\Aleks\Documents\05-Ventures\05.01-blckmtn\website`
+3. run `npm start`
+4. At this point, the development server is running, and now you can edit your code and refresh your webpage `http://127.0.0.1:4000/sleek/`
 
 ### System Requirements
 
